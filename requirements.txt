@@ -1,5 +1,7 @@
+python=3.12
 streamlit
 openai
+
 python-dotenv
 tinydb
 langchain
@@ -8,5 +10,4 @@ pydantic
 typing_extensions
 langchain_openai
 langchain_groq
-pymongo
-
+pymongo=4.13.0
