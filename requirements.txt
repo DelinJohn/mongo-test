@@ -9,4 +9,4 @@ pydantic
 typing_extensions
 langchain_openai
 langchain_groq
-pymongo==4.13.0
+pymongo
