@@ -1,0 +1,11 @@
+.streamlit
+.env
+*.ipynb
+*.json
+*.csv
+*.log
+main.py
+.py
+.txt
+.streamlit
+
